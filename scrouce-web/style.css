@@ -416,6 +416,10 @@ h3 { font-size: 1.42rem; }
   border-radius: var(--radius-md);
 }
 
+.product-copy .inline-actions {
+  margin-top: 18px;
+}
+
 .list {
   margin: 0;
   padding-left: 20px;
